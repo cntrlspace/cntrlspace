@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Nicole! I'm a former Civil Engineer but now I'm a student at the University of New Orleans studying computer science. I'm looking for Software Engineer internships for the Summer of 2023 to continue to grow my skillsets and learn all that I can about this industry. I started my computer science path in January 2022 and I expect to graduate in May 2024.
+My name is Nicole! I'm a former Civil Engineer but now I'm a student studying computer science. I'm looking for Software Engineer internships for the Summer of 2023 to continue to grow my skillsets and learn all that I can about this industry. I started my computer science path in January 2022 and I expect to graduate in May 2024.
 
 
 
